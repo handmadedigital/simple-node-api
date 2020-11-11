@@ -17,5 +17,4 @@ An easy way to get started with Node.js api.
 
 ### GET Routes
 - visit http://localhost:3000
-  - /
   - /shopify
