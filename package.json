@@ -1,0 +1,25 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "axios-rate-limit": "^1.2.1",
+    "btoa": "^1.2.1",
+    "cheerio": "^1.0.0-rc.3",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "formula-pmt": "^1.0.1",
+    "http-errors": "~1.6.3",
+    "moment": "^2.24.0",
+    "morgan": "~1.9.1",
+    "pug": "2.0.0-beta11",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
